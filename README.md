@@ -1,3 +1,5 @@
+![logo](![image](https://github.com/subratmahavoi/subratmahavoi/assets/138695874/275ee55a-228c-4fba-be39-1c9295081042)
+
 <h1 align="center">Hi 👋, I'm Subrat Mahavoi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
