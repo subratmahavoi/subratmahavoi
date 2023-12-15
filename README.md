@@ -1,5 +1,5 @@
-![image](![github-header-image](https://github.com/subratmahavoi/subratmahavoi/assets/138695874/b35463e2-a9ea-4b08-9f1c-cbe824f106fa)
-)
+![image](https://github.com/subratmahavoi/subratmahavoi/assets/138695874/b35463e2-a9ea-4b08-9f1c-cbe824f106fa)
+
 
 <h1 align="center">Hi 👋, I'm Subrat Mahavoi</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
