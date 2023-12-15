@@ -1,4 +1,5 @@
-![image](https://github.com/subratmahavoi/subratmahavoi/assets/138695874/b35463e2-a9ea-4b08-9f1c-cbe824f106fa)
+![image](https://github.com/subratmahavoi/subratmahavoi/assets/138695874/b30c7ded-e0dd-4e48-85fd-73eb2ba431a5)
+
 
 
 <h1 align="center">Hi 👋, I'm Subrat Mahavoi</h1>
