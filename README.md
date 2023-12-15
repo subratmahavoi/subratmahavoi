@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **AlmaBetter**
 
-- 🌱 I’m currently learning **aws,azure**
+- 🌱 I’m currently learning **aws,salesforce**
 
-- 💬 Ask me about **SQL, Python ,PowerBI**
+- 💬 Ask me about **SQL, Python ,DataAnalysis,Database,PowerBI**
 
 - 📫 How to reach me **subratmahavoi44@gmail.com**
 
