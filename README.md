@@ -2,8 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Subrat Mahavoi</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+
 
 - 🔭 I’m currently working on **AlmaBetter**
 
